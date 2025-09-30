@@ -1,0 +1,1 @@
+gfortran -ffree-line-length-none --std=legacy -O3 PFLBM.f90 -o a.exe

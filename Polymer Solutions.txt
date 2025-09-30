@@ -1,0 +1,24 @@
+Polymer Solutions used:
+
+PEO/water: commonly used in most papers
+- Paper 1: The viscoelastic interstitial fluid is a mixture of water (74%), glycerol (25%), and polyethylene oxide (1%) with a molar weight of 300kg/mol (PEO, from Sigma Aldrich) whose density matches that of the particles.
+- Paper 2: The liquids consist of mixtures of deionized (DI) water and glycerol (Sigma-Aldrich) for the solvent, and the polymer solutions are prepared using Polyethylene oxide (PEO) of molecular weight Mw = 4000 kg/mol (Sigma Aldrich).
+
+PAM/PEO/water
+Poly acrylamide (M. W. 50,000 g/mol) and Poly ethylene oxide (M. W. 2 × 105 g/mol) were obtained from local chemicals supplier and used as received. The polymer blend films were prepared by the solution casting method. Polymer blend films were made in three different weight percentages 30/70, 50/50 and 70/30 (wt %). PAM and PEO first dissolved in the common solvent (distilled water) and then both the polymers were homogeneously mixed using a magnetic stirrer at the constant temperature at 50˚C for 12 hours.
+
+PAN/DMSO
+The industrial polyacrylonitrile copolymer (PAN) AN316020 produced by Good Fellow (UK, Huntingdon) was used in the study. Number average and weight average molecular weights were 50 and 85 kg/mol, respectively. The monomer content in the sample was the following: acrylonitrile (93.9%), methyl acrylate (5.8%), and methyl sulfonate (0.3%). DMSO [EKOS-1 (Russia, Moscow)], used as a solvent, was dried according to standard protocols.
+
+DNA/water: semi-rigid(not used much)
+
+Particles:
+
+monodisperse polystyrene particles
+The spherical and monodisperse polystyrene particles (Dynoseeds TS from Microbeads) have a density ρ ≃ 1057 kgm−3, and we used batches of different diameters d ranging from 20 to 140μm.
+
+Nomenclature:
+PAM - Polyacrylamide
+PEO - Poly(ethylene oxide)
+PAN - Polyacrylonitrile
+DMSO - Dimethyl Sulfoxide

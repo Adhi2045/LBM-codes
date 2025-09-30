@@ -1,0 +1,26 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Debug Fortran",
+      "type": "cppdbg",
+      "request": "launch",
+      "program": "${workspaceFolder}/b.exe",  // Change if your executable is named differently
+      "args": [],
+      "stopAtEntry": true,                    // ✅ Use this (not `stopOnEntry`)
+      "cwd": "${workspaceFolder}",
+      "environment": [],
+      "externalConsole": false,
+      "MIMode": "gdb",
+      "miDebuggerPath": "C:/MinGW/bin/gdb.exe",       // Adjust if gdb is in a different path
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
+
